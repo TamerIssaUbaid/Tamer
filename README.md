@@ -1,15 +1,15 @@
 # Tamer 
 # 👋 Olá! Eu sou Támer Issa Ubaid
 
-🎓 Estudante de Engenharia de Software | 🔒 Apaixonado por Segurança da Informação & Infraestrutura | 📌 Explorando Blockchain e DevOps  
+🎓 Estudante de Engenharia de Software | 🔒 Apaixonado por Segurança da Informação & Infraestrutura | 📌 Explorando Desenvolvimento de Software e DevOps  
 
 ## 🚀 Sobre mim  
-Sou um estudante de Engenharia de Software interessado em cibersegurança, infraestrutura e desenvolvimento blockchain. Atualmente, estou focado em aprimorar minhas habilidades em Linux, redes e segurança cibernética, além de explorar o universo das criptomoedas e contratos inteligentes. 
+Sou um estudante de Engenharia de Software interessado em cibersegurança, infraestrutura e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Linux, redes e programação, além de explorar outras tecnologias e ferramentas. 
 
 📍 **Áreas de Interesse:**   
 - 🔹 Infraestrutura de TI (Linux, redes, segurança)  
 - 🔹 DevOps (CI/CD, Docker, Kubernetes)  
-- 🔹 Desenvolvimento Blockchain & Smart Contracts  
+- 🔹 Desenvolvimento de Software  
 - 🔹 Análise de Vulnerabilidades e Pentest  
 
 ## 🛠️ Tecnologias & Ferramentas  
